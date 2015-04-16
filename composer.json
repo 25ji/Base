@@ -13,7 +13,8 @@
         "typo3/eel": "@dev",
         "doctrine/migrations": "@dev",
         "typo3/media": "@dev",
-	"typo3/party": "@dev"
+	"typo3/party": "@dev",
+        "typo3/surf": "dev-master"
     },
     "require-dev": {
         "typo3/kickstart": "dev-master",

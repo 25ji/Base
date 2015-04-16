@@ -1,0 +1,39 @@
+#                                                                        #
+# Routes configuration                                                   #
+#                                                                        #
+# This file contains the configuration for the MVC router.               #
+# Just add your own modifications as necessary.                          #
+#                                                                        #
+# Please refer to the Flow manual for possible configuration options.    #
+#                                                                        #
+
+##
+# Subroutes from the Welcome package.
+#
+# If the package "Welcome" is installed, its fallback route will point to an
+# informative welcome screen.
+
+-
+  name: '25 Jahre'
+  uriPattern: '<MainSubroutes>'
+  defaults:
+    '@package': 'Eco.Campaign25ji'
+    '@format': 'html'
+  subRoutes:
+    MainSubroutes:
+      package: Eco.Campaign25ji
+
+
+
+##
+# Flow subroutes
+#
+
+-
+  name: 'Flow'
+  uriPattern: '<FlowSubroutes>'
+  defaults:
+    '@format': 'html'
+  subRoutes:
+    FlowSubroutes:
+      package: TYPO3.Flow
