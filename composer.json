@@ -25,7 +25,8 @@
         "typo3/media": "@dev",
         "typo3/party": "@dev",
         "typo3/surf": "dev-master",
-        "eco/campaign25ji": "dev-master"
+        "eco/campaign25ji": "dev-master",
+        "flowpack/twitter-api": "dev-master"
     },
     "require-dev": {
         "typo3/kickstart": "dev-master",

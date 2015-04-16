@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "5e10b8c83ea2556ec931cbf2d4c49acb",
+    "hash": "c03497bce3996e1303a210db8b7da75e",
     "packages": [
         {
             "name": "composer/installers",
@@ -707,15 +707,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/25ji/Campaign25ji.git",
-                "reference": "a1a0c25d431b6aa7ff55815b81408d116e809a30"
+                "reference": "320c24afaef9b0d6adf14c1568bc6a56eac5f994"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/a1a0c25d431b6aa7ff55815b81408d116e809a30",
-                "reference": "a1a0c25d431b6aa7ff55815b81408d116e809a30",
+                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/320c24afaef9b0d6adf14c1568bc6a56eac5f994",
+                "reference": "320c24afaef9b0d6adf14c1568bc6a56eac5f994",
                 "shasum": ""
             },
             "require": {
+                "flowpack/twitter-api": "*",
                 "typo3/flow": "*",
                 "typo3/media": "*",
                 "typo3/party": "*"
@@ -731,7 +732,37 @@
                 "source": "https://github.com/25ji/Campaign25ji/tree/master",
                 "issues": "https://github.com/25ji/Campaign25ji/issues"
             },
-            "time": "2015-04-16 10:10:19"
+            "time": "2015-04-16 10:51:57"
+        },
+        {
+            "name": "flowpack/twitter-api",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/25ji/Flowpack.TwitterApi.git",
+                "reference": "b4474deb1b8cf55f1ea8383648fa8301fe469937"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/25ji/Flowpack.TwitterApi/zipball/b4474deb1b8cf55f1ea8383648fa8301fe469937",
+                "reference": "b4474deb1b8cf55f1ea8383648fa8301fe469937",
+                "shasum": ""
+            },
+            "require": {
+                "typo3/flow": "*"
+            },
+            "type": "typo3-flow-package",
+            "autoload": {
+                "psr-4": {
+                    "Flowpack\\TwitterApi\\": "Classes"
+                }
+            },
+            "description": "Twitter API methods",
+            "support": {
+                "source": "https://github.com/25ji/Flowpack.TwitterApi/tree/master",
+                "issues": "https://github.com/25ji/Flowpack.TwitterApi/issues"
+            },
+            "time": "2015-04-16 11:01:23"
         },
         {
             "name": "imagine/imagine",
@@ -2216,6 +2247,7 @@
         "typo3/party": 20,
         "typo3/surf": 20,
         "eco/campaign25ji": 20,
+        "flowpack/twitter-api": 20,
         "typo3/kickstart": 20,
         "typo3/buildessentials": 20
     },
