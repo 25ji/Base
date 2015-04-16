@@ -6,6 +6,16 @@
         "vendor-dir": "Packages/Libraries",
         "bin-dir": "bin"
     },
+    "repositories": [
+      {
+        "type": "vcs",
+        "url": "git@github.com:25ji/Campaign25ji.git"
+      },
+      {
+        "type": "vcs",
+        "url": "git@github.com:25ji/Flowpack.TwitterApi.git"
+      }
+    ],
     "require": {
         "typo3/flow": "dev-master",
         "typo3/welcome": "dev-master",
@@ -13,8 +23,9 @@
         "typo3/eel": "@dev",
         "doctrine/migrations": "@dev",
         "typo3/media": "@dev",
-	"typo3/party": "@dev",
-        "typo3/surf": "dev-master"
+        "typo3/party": "@dev",
+        "typo3/surf": "dev-master",
+        "eco/campaign25ji": "dev-master"
     },
     "require-dev": {
         "typo3/kickstart": "dev-master",
