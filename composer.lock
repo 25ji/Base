@@ -740,12 +740,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/25ji/Flowpack.TwitterApi.git",
-                "reference": "b4474deb1b8cf55f1ea8383648fa8301fe469937"
+                "reference": "d9d4630a3793d3d00f5ac7809938ef5141c39482"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/25ji/Flowpack.TwitterApi/zipball/b4474deb1b8cf55f1ea8383648fa8301fe469937",
-                "reference": "b4474deb1b8cf55f1ea8383648fa8301fe469937",
+                "url": "https://api.github.com/repos/25ji/Flowpack.TwitterApi/zipball/d9d4630a3793d3d00f5ac7809938ef5141c39482",
+                "reference": "d9d4630a3793d3d00f5ac7809938ef5141c39482",
                 "shasum": ""
             },
             "require": {
@@ -762,7 +762,7 @@
                 "source": "https://github.com/25ji/Flowpack.TwitterApi/tree/master",
                 "issues": "https://github.com/25ji/Flowpack.TwitterApi/issues"
             },
-            "time": "2015-04-16 11:01:23"
+            "time": "2015-04-17 12:23:39"
         },
         {
             "name": "imagine/imagine",
@@ -1059,7 +1059,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Flow.git",
-                "reference": "7a130f0e0973489108699f25ad970193489681c2"
+                "reference": "d96bb08d4d6f609153b83b2da7d97924170720d3"
             },
             "require": {
                 "composer/installers": "~1.0.2",
@@ -1094,7 +1094,7 @@
             ],
             "description": "TYPO3 Flow Application Framework",
             "homepage": "http://flow.typo3.org",
-            "time": "2015-04-16 06:17:32"
+            "time": "2015-04-17 10:55:06"
         },
         {
             "name": "typo3/fluid",
