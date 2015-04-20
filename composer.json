@@ -22,7 +22,7 @@
         "typo3/fluid": "@dev",
         "typo3/eel": "@dev",
         "doctrine/migrations": "@dev",
-        "typo3/media": "@dev",
+        "typo3/media": "dev-master",
         "typo3/party": "@dev",
         "typo3/surf": "dev-master",
         "eco/campaign25ji": "dev-master",

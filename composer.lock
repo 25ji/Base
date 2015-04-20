@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "c03497bce3996e1303a210db8b7da75e",
+    "hash": "355696b967b11a08b40a5a630fb51761",
     "packages": [
         {
             "name": "composer/installers",
@@ -707,12 +707,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/25ji/Campaign25ji.git",
-                "reference": "d1e6aacfaaeaae18f6304abb834b7860f660d0dd"
+                "reference": "673aab56fe342cdd4b365e61105983ae684b7f74"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/d1e6aacfaaeaae18f6304abb834b7860f660d0dd",
-                "reference": "d1e6aacfaaeaae18f6304abb834b7860f660d0dd",
+                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/673aab56fe342cdd4b365e61105983ae684b7f74",
+                "reference": "673aab56fe342cdd4b365e61105983ae684b7f74",
                 "shasum": ""
             },
             "require": {
@@ -732,7 +732,7 @@
                 "source": "https://github.com/25ji/Campaign25ji/tree/master",
                 "issues": "https://github.com/25ji/Campaign25ji/issues"
             },
-            "time": "2015-04-17 13:59:46"
+            "time": "2015-04-20 13:59:16"
         },
         {
             "name": "flowpack/twitter-api",
@@ -1059,7 +1059,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Flow.git",
-                "reference": "d96bb08d4d6f609153b83b2da7d97924170720d3"
+                "reference": "5594d03e8de876deec821e93f1947d535368c63f"
             },
             "require": {
                 "composer/installers": "~1.0.2",
@@ -1094,7 +1094,7 @@
             ],
             "description": "TYPO3 Flow Application Framework",
             "homepage": "http://flow.typo3.org",
-            "time": "2015-04-17 10:55:06"
+            "time": "2015-04-20 06:17:31"
         },
         {
             "name": "typo3/fluid",
@@ -2216,7 +2216,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Kickstart.git",
-                "reference": "c8234b213e0b821072cedd1a4981a555b66c099c"
+                "reference": "a100b42d92dd5a6ec33cdd60b202154ad209460d"
             },
             "require": {
                 "typo3/flow": "*"
@@ -2232,7 +2232,7 @@
                 "LGPL-3.0+"
             ],
             "description": "A simple generator for controller and views.",
-            "time": "2015-02-26 07:34:37"
+            "time": "2015-04-15 15:38:48"
         }
     ],
     "aliases": [],
