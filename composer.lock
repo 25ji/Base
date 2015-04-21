@@ -707,12 +707,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/25ji/Campaign25ji.git",
-                "reference": "3274a6f9e80b284b620ad01e48bb3bd1e2b1074c"
+                "reference": "63c4930f15e3940f1f95c460c9f48e71264447dd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/3274a6f9e80b284b620ad01e48bb3bd1e2b1074c",
-                "reference": "3274a6f9e80b284b620ad01e48bb3bd1e2b1074c",
+                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/63c4930f15e3940f1f95c460c9f48e71264447dd",
+                "reference": "63c4930f15e3940f1f95c460c9f48e71264447dd",
                 "shasum": ""
             },
             "require": {
@@ -732,7 +732,7 @@
                 "source": "https://github.com/25ji/Campaign25ji/tree/master",
                 "issues": "https://github.com/25ji/Campaign25ji/issues"
             },
-            "time": "2015-04-20 18:29:34"
+            "time": "2015-04-21 06:55:01"
         },
         {
             "name": "flowpack/twitter-api",
@@ -1059,7 +1059,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Flow.git",
-                "reference": "5594d03e8de876deec821e93f1947d535368c63f"
+                "reference": "3eea8d458c9cecc8bdaecaf4eea985ca9b0cc8f0"
             },
             "require": {
                 "composer/installers": "~1.0.2",
@@ -1094,7 +1094,7 @@
             ],
             "description": "TYPO3 Flow Application Framework",
             "homepage": "http://flow.typo3.org",
-            "time": "2015-04-20 06:17:31"
+            "time": "2015-04-21 06:17:31"
         },
         {
             "name": "typo3/fluid",
@@ -1150,7 +1150,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Media.git",
-                "reference": "1a9b1363e2f8de44a44aa0947885039ea3f36786"
+                "reference": "af767b9ec4fcd4972e512e6948532ab6e9413e71"
             },
             "require": {
                 "php": ">=5.4.0",
@@ -1168,7 +1168,7 @@
                 "GPL-3.0+"
             ],
             "description": "The Media package",
-            "time": "2015-03-26 11:15:46"
+            "time": "2015-04-20 19:35:40"
         },
         {
             "name": "typo3/party",
