@@ -707,12 +707,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/25ji/Campaign25ji.git",
-                "reference": "0f7022fcc52d57795dd7a1a0835a7f629988a15e"
+                "reference": "7a170ea3f5ed117c2d2a8816de5914b77ddf4d00"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/0f7022fcc52d57795dd7a1a0835a7f629988a15e",
-                "reference": "0f7022fcc52d57795dd7a1a0835a7f629988a15e",
+                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/7a170ea3f5ed117c2d2a8816de5914b77ddf4d00",
+                "reference": "7a170ea3f5ed117c2d2a8816de5914b77ddf4d00",
                 "shasum": ""
             },
             "require": {
@@ -732,7 +732,7 @@
                 "source": "https://github.com/25ji/Campaign25ji/tree/master",
                 "issues": "https://github.com/25ji/Campaign25ji/issues"
             },
-            "time": "2015-04-24 10:10:10"
+            "time": "2015-04-24 13:36:30"
         },
         {
             "name": "flowpack/twitter-api",
