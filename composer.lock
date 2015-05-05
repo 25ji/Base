@@ -576,12 +576,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/migrations.git",
-                "reference": "39d6223d919baa35883270199c7e935acc440257"
+                "reference": "a4f14d3a3d397104e557ec65d1a4e43bb86e4ddf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/migrations/zipball/39d6223d919baa35883270199c7e935acc440257",
-                "reference": "39d6223d919baa35883270199c7e935acc440257",
+                "url": "https://api.github.com/repos/doctrine/migrations/zipball/a4f14d3a3d397104e557ec65d1a4e43bb86e4ddf",
+                "reference": "a4f14d3a3d397104e557ec65d1a4e43bb86e4ddf",
                 "shasum": ""
             },
             "require": {
@@ -589,6 +589,8 @@
                 "php": ">=5.3.2"
             },
             "require-dev": {
+                "doctrine/orm": "2.*",
+                "phpunit/phpunit": "~4.0",
                 "symfony/console": "2.*",
                 "symfony/yaml": "2.*"
             },
@@ -626,7 +628,7 @@
                 "database",
                 "migrations"
             ],
-            "time": "2015-04-22 09:24:33"
+            "time": "2015-05-02 06:20:23"
         },
         {
             "name": "doctrine/orm",
@@ -707,12 +709,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/25ji/Campaign25ji.git",
-                "reference": "7a170ea3f5ed117c2d2a8816de5914b77ddf4d00"
+                "reference": "94c2355e78fb2def24ce57047f3a24f89826ce83"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/7a170ea3f5ed117c2d2a8816de5914b77ddf4d00",
-                "reference": "7a170ea3f5ed117c2d2a8816de5914b77ddf4d00",
+                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/94c2355e78fb2def24ce57047f3a24f89826ce83",
+                "reference": "94c2355e78fb2def24ce57047f3a24f89826ce83",
                 "shasum": ""
             },
             "require": {
@@ -732,7 +734,7 @@
                 "source": "https://github.com/25ji/Campaign25ji/tree/master",
                 "issues": "https://github.com/25ji/Campaign25ji/issues"
             },
-            "time": "2015-04-24 13:36:30"
+            "time": "2015-05-05 08:54:17"
         },
         {
             "name": "flowpack/twitter-api",
@@ -1035,7 +1037,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Eel.git",
-                "reference": "4d067ccf008fbc2ca667b60730676b1fe04eba9c"
+                "reference": "f13b59cb7225c8ee235e693dea4fef5a3ffe0051"
             },
             "require": {
                 "typo3/flow": "*"
@@ -1051,7 +1053,7 @@
                 "LGPL-3.0+"
             ],
             "description": "The Embedded Expression Language (Eel) is a building block for creating Domain Specific Languages",
-            "time": "2015-02-26 09:18:23"
+            "time": "2015-04-28 20:36:35"
         },
         {
             "name": "typo3/flow",
@@ -1059,7 +1061,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Flow.git",
-                "reference": "2fa4bcd1f98851255f7c45c30c45e23102ed0aa7"
+                "reference": "db223173debc59cc80c8e524727355937625037f"
             },
             "require": {
                 "composer/installers": "~1.0.2",
@@ -1094,7 +1096,7 @@
             ],
             "description": "TYPO3 Flow Application Framework",
             "homepage": "http://flow.typo3.org",
-            "time": "2015-04-24 06:17:32"
+            "time": "2015-05-05 06:17:28"
         },
         {
             "name": "typo3/fluid",
@@ -1102,7 +1104,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Fluid.git",
-                "reference": "defa41b24cea5bd800dc50facec3d9dedfc5a86d"
+                "reference": "21a3637a10ca340d9cf5caeaf432ec1059806265"
             },
             "require": {
                 "typo3/flow": "*"
@@ -1118,7 +1120,7 @@
                 "LGPL-3.0+"
             ],
             "description": "Next-Generation Templating Framework for TYPO3 Flow and TYPO3 Neos, also backported to TYPO3 CMS",
-            "time": "2015-04-10 09:11:59"
+            "time": "2015-04-27 10:12:45"
         },
         {
             "name": "typo3/imagine",
@@ -1150,7 +1152,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Media.git",
-                "reference": "af767b9ec4fcd4972e512e6948532ab6e9413e71"
+                "reference": "728b62dd6d1d3534f6806cb7c864532b29d41e10"
             },
             "require": {
                 "php": ">=5.4.0",
@@ -1168,7 +1170,7 @@
                 "GPL-3.0+"
             ],
             "description": "The Media package",
-            "time": "2015-04-20 19:35:40"
+            "time": "2015-05-05 05:24:57"
         },
         {
             "name": "typo3/party",
@@ -1388,16 +1390,16 @@
         },
         {
             "name": "phpspec/prophecy",
-            "version": "1.4.0",
+            "version": "v1.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpspec/prophecy.git",
-                "reference": "8724cd239f8ef4c046f55a3b18b4d91cc7f3e4c5"
+                "reference": "3132b1f44c7bf2ec4c7eb2d3cb78fdeca760d373"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpspec/prophecy/zipball/8724cd239f8ef4c046f55a3b18b4d91cc7f3e4c5",
-                "reference": "8724cd239f8ef4c046f55a3b18b4d91cc7f3e4c5",
+                "url": "https://api.github.com/repos/phpspec/prophecy/zipball/3132b1f44c7bf2ec4c7eb2d3cb78fdeca760d373",
+                "reference": "3132b1f44c7bf2ec4c7eb2d3cb78fdeca760d373",
                 "shasum": ""
             },
             "require": {
@@ -1444,7 +1446,7 @@
                 "spy",
                 "stub"
             ],
-            "time": "2015-03-27 19:31:25"
+            "time": "2015-04-27 22:15:08"
         },
         {
             "name": "phpunit/php-code-coverage",
@@ -2194,7 +2196,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Flow/BuildEssentials.git",
-                "reference": "9ff70043ff6fa42b755ef2e8be3a9922201ec635"
+                "reference": "b4baf61f0e3ee881e2bef5130238061609dc9a28"
             },
             "require": {
                 "composer/installers": "~1.0.2"
@@ -2208,7 +2210,7 @@
                 "LGPL-3.0+"
             ],
             "description": "TYPO3 Flow Build Toolchain Essentials",
-            "time": "2015-04-15 07:28:01"
+            "time": "2015-04-28 15:44:50"
         },
         {
             "name": "typo3/kickstart",
