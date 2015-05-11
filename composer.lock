@@ -709,12 +709,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/25ji/Campaign25ji.git",
-                "reference": "94c2355e78fb2def24ce57047f3a24f89826ce83"
+                "reference": "55e882ab720c7a293d1e01daccaee6014da27d4a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/94c2355e78fb2def24ce57047f3a24f89826ce83",
-                "reference": "94c2355e78fb2def24ce57047f3a24f89826ce83",
+                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/55e882ab720c7a293d1e01daccaee6014da27d4a",
+                "reference": "55e882ab720c7a293d1e01daccaee6014da27d4a",
                 "shasum": ""
             },
             "require": {
@@ -734,7 +734,7 @@
                 "source": "https://github.com/25ji/Campaign25ji/tree/master",
                 "issues": "https://github.com/25ji/Campaign25ji/issues"
             },
-            "time": "2015-05-05 08:54:17"
+            "time": "2015-05-11 09:11:19"
         },
         {
             "name": "flowpack/twitter-api",
@@ -742,12 +742,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/25ji/Flowpack.TwitterApi.git",
-                "reference": "1a2582555e510867ac0dd6e5b611dfffcc4137e5"
+                "reference": "64f161e1fb3fba429812899dc0ac979da6966b23"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/25ji/Flowpack.TwitterApi/zipball/1a2582555e510867ac0dd6e5b611dfffcc4137e5",
-                "reference": "1a2582555e510867ac0dd6e5b611dfffcc4137e5",
+                "url": "https://api.github.com/repos/25ji/Flowpack.TwitterApi/zipball/64f161e1fb3fba429812899dc0ac979da6966b23",
+                "reference": "64f161e1fb3fba429812899dc0ac979da6966b23",
                 "shasum": ""
             },
             "require": {
@@ -764,7 +764,7 @@
                 "source": "https://github.com/25ji/Flowpack.TwitterApi/tree/master",
                 "issues": "https://github.com/25ji/Flowpack.TwitterApi/issues"
             },
-            "time": "2015-04-20 18:29:59"
+            "time": "2015-05-11 09:10:48"
         },
         {
             "name": "imagine/imagine",
@@ -825,17 +825,17 @@
         },
         {
             "name": "symfony/console",
-            "version": "v2.6.6",
+            "version": "v2.6.7",
             "target-dir": "Symfony/Component/Console",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Console.git",
-                "reference": "5b91dc4ed5eb08553f57f6df04c4730a73992667"
+                "reference": "ebc5679854aa24ed7d65062e9e3ab0b18a917272"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Console/zipball/5b91dc4ed5eb08553f57f6df04c4730a73992667",
-                "reference": "5b91dc4ed5eb08553f57f6df04c4730a73992667",
+                "url": "https://api.github.com/repos/symfony/Console/zipball/ebc5679854aa24ed7d65062e9e3ab0b18a917272",
+                "reference": "ebc5679854aa24ed7d65062e9e3ab0b18a917272",
                 "shasum": ""
             },
             "require": {
@@ -869,17 +869,17 @@
             ],
             "authors": [
                 {
-                    "name": "Symfony Community",
-                    "homepage": "http://symfony.com/contributors"
-                },
-                {
                     "name": "Fabien Potencier",
                     "email": "fabien@symfony.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
                 }
             ],
             "description": "Symfony Console Component",
-            "homepage": "http://symfony.com",
-            "time": "2015-03-30 15:54:10"
+            "homepage": "https://symfony.com",
+            "time": "2015-05-02 15:18:45"
         },
         {
             "name": "symfony/dom-crawler",
@@ -936,17 +936,17 @@
         },
         {
             "name": "symfony/process",
-            "version": "v2.6.6",
+            "version": "v2.6.7",
             "target-dir": "Symfony/Component/Process",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Process.git",
-                "reference": "a8bebaec1a9dc6cde53e0250e32917579b0be552"
+                "reference": "9f3c4baaf840ed849e1b1f7bfd5ae246e8509562"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Process/zipball/a8bebaec1a9dc6cde53e0250e32917579b0be552",
-                "reference": "a8bebaec1a9dc6cde53e0250e32917579b0be552",
+                "url": "https://api.github.com/repos/symfony/Process/zipball/9f3c4baaf840ed849e1b1f7bfd5ae246e8509562",
+                "reference": "9f3c4baaf840ed849e1b1f7bfd5ae246e8509562",
                 "shasum": ""
             },
             "require": {
@@ -972,17 +972,17 @@
             ],
             "authors": [
                 {
-                    "name": "Symfony Community",
-                    "homepage": "http://symfony.com/contributors"
-                },
-                {
                     "name": "Fabien Potencier",
                     "email": "fabien@symfony.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
                 }
             ],
             "description": "Symfony Process Component",
-            "homepage": "http://symfony.com",
-            "time": "2015-03-30 15:54:10"
+            "homepage": "https://symfony.com",
+            "time": "2015-05-02 15:18:45"
         },
         {
             "name": "symfony/yaml",
@@ -1037,7 +1037,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Eel.git",
-                "reference": "f13b59cb7225c8ee235e693dea4fef5a3ffe0051"
+                "reference": "500374b1cede16b3fe58d902dfd36a12441810e0"
             },
             "require": {
                 "typo3/flow": "*"
@@ -1053,7 +1053,7 @@
                 "LGPL-3.0+"
             ],
             "description": "The Embedded Expression Language (Eel) is a building block for creating Domain Specific Languages",
-            "time": "2015-04-28 20:36:35"
+            "time": "2015-05-10 13:28:07"
         },
         {
             "name": "typo3/flow",
@@ -1061,7 +1061,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Flow.git",
-                "reference": "db223173debc59cc80c8e524727355937625037f"
+                "reference": "acdf59feb24a49f9e3d9d1e4fa1c943b437a7f03"
             },
             "require": {
                 "composer/installers": "~1.0.2",
@@ -1096,7 +1096,7 @@
             ],
             "description": "TYPO3 Flow Application Framework",
             "homepage": "http://flow.typo3.org",
-            "time": "2015-05-05 06:17:28"
+            "time": "2015-05-11 08:47:54"
         },
         {
             "name": "typo3/fluid",
@@ -1152,7 +1152,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Media.git",
-                "reference": "728b62dd6d1d3534f6806cb7c864532b29d41e10"
+                "reference": "b803ec017246302b36627c580b31702847fbcead"
             },
             "require": {
                 "php": ">=5.4.0",
@@ -1170,7 +1170,7 @@
                 "GPL-3.0+"
             ],
             "description": "The Media package",
-            "time": "2015-05-05 05:24:57"
+            "time": "2015-05-11 07:21:22"
         },
         {
             "name": "typo3/party",
@@ -1202,7 +1202,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Surf.git",
-                "reference": "502acb73a351a1081797cd58c468c7eb849bd483"
+                "reference": "5677ef6fa8f724f420b4ba056ad074baa5b00c2e"
             },
             "require": {
                 "symfony/process": "~2.1",
@@ -1219,7 +1219,7 @@
                 "GPL-3.0+"
             ],
             "description": "TYPO3 Surf is a deployment tool based on Flow and suited for a wide variety of applications",
-            "time": "2015-03-11 18:42:58"
+            "time": "2015-04-23 07:23:35"
         },
         {
             "name": "typo3/welcome",
