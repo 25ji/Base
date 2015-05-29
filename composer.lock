@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
     "hash": "355696b967b11a08b40a5a630fb51761",
@@ -580,7 +580,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/migrations/zipball/a4f14d3a3d397104e557ec65d1a4e43bb86e4ddf",
+                "url": "https://api.github.com/repos/doctrine/migrations/zipball/abb87d84ed21fd30c27bd3b52252a495a36d32fb",
                 "reference": "a4f14d3a3d397104e557ec65d1a4e43bb86e4ddf",
                 "shasum": ""
             },
@@ -714,12 +714,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/25ji/Campaign25ji.git",
-                "reference": "d2c53f07dd3be1fb3c5d9aca696bcf18383ab581"
+                "reference": "e867f90f48f266250deb51d013edb4171bec712b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/d2c53f07dd3be1fb3c5d9aca696bcf18383ab581",
-                "reference": "d2c53f07dd3be1fb3c5d9aca696bcf18383ab581",
+                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/e867f90f48f266250deb51d013edb4171bec712b",
+                "reference": "e867f90f48f266250deb51d013edb4171bec712b",
                 "shasum": ""
             },
             "require": {
@@ -739,7 +739,7 @@
                 "source": "https://github.com/25ji/Campaign25ji/tree/master",
                 "issues": "https://github.com/25ji/Campaign25ji/issues"
             },
-            "time": "2015-05-29 09:07:45"
+            "time": "2015-05-29 09:53:36"
         },
         {
             "name": "flowpack/twitter-api",
@@ -1182,7 +1182,7 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://git.typo3.org/Packages/TYPO3.Party.git",
+                "url": "git://git.typo3.org/Packages/TYPO3.Party.git",
                 "reference": "50a99d49c3fce2969a35c5aa9ddf3acee5fc5676"
             },
             "require": {
