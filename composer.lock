@@ -633,7 +633,7 @@
                 "database",
                 "migrations"
             ],
-            "time": "2015-05-26 15:30:26"
+            "time": "2015-05-02 06:20:23"
         },
         {
             "name": "doctrine/orm",
@@ -714,12 +714,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/25ji/Campaign25ji.git",
-                "reference": "ae9db1a972bc1dcf8ec7f9814d62d1fa8476f695"
+                "reference": "d2c53f07dd3be1fb3c5d9aca696bcf18383ab581"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/ae9db1a972bc1dcf8ec7f9814d62d1fa8476f695",
-                "reference": "ae9db1a972bc1dcf8ec7f9814d62d1fa8476f695",
+                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/d2c53f07dd3be1fb3c5d9aca696bcf18383ab581",
+                "reference": "d2c53f07dd3be1fb3c5d9aca696bcf18383ab581",
                 "shasum": ""
             },
             "require": {
@@ -739,7 +739,7 @@
                 "source": "https://github.com/25ji/Campaign25ji/tree/master",
                 "issues": "https://github.com/25ji/Campaign25ji/issues"
             },
-            "time": "2015-05-29 08:30:51"
+            "time": "2015-05-29 09:07:45"
         },
         {
             "name": "flowpack/twitter-api",
