@@ -714,12 +714,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/25ji/Campaign25ji.git",
-                "reference": "d39b1d72351b5b70dc980477a609cd3fbbeb4efa"
+                "reference": "3e6df327cde0606791c9df15467ecbe296e146fb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/d39b1d72351b5b70dc980477a609cd3fbbeb4efa",
-                "reference": "d39b1d72351b5b70dc980477a609cd3fbbeb4efa",
+                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/3e6df327cde0606791c9df15467ecbe296e146fb",
+                "reference": "3e6df327cde0606791c9df15467ecbe296e146fb",
                 "shasum": ""
             },
             "require": {
@@ -739,7 +739,7 @@
                 "source": "https://github.com/25ji/Campaign25ji/tree/master",
                 "issues": "https://github.com/25ji/Campaign25ji/issues"
             },
-            "time": "2015-06-01 10:58:37"
+            "time": "2015-06-01 12:56:00"
         },
         {
             "name": "flowpack/twitter-api",
@@ -1064,7 +1064,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Flow.git",
-                "reference": "91dd1765514192f7dac2c526b9cd5de192afdb52"
+                "reference": "f704e15b61f181105a260e2e220234430cb826f2"
             },
             "require": {
                 "composer/installers": "~1.0.2",
@@ -1099,7 +1099,7 @@
             ],
             "description": "TYPO3 Flow Application Framework",
             "homepage": "http://flow.typo3.org",
-            "time": "2015-06-01 10:45:09"
+            "time": "2015-06-01 12:43:20"
         },
         {
             "name": "typo3/fluid",
