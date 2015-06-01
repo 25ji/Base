@@ -714,12 +714,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/25ji/Campaign25ji.git",
-                "reference": "46bfa3ef482d7e7e49baec3917b77e1873851efd"
+                "reference": "b4289616b222392c9bba48b9bfadd6f40bd54a8d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/46bfa3ef482d7e7e49baec3917b77e1873851efd",
-                "reference": "46bfa3ef482d7e7e49baec3917b77e1873851efd",
+                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/b4289616b222392c9bba48b9bfadd6f40bd54a8d",
+                "reference": "b4289616b222392c9bba48b9bfadd6f40bd54a8d",
                 "shasum": ""
             },
             "require": {
@@ -739,7 +739,7 @@
                 "source": "https://github.com/25ji/Campaign25ji/tree/master",
                 "issues": "https://github.com/25ji/Campaign25ji/issues"
             },
-            "time": "2015-06-01 09:16:28"
+            "time": "2015-06-01 10:06:47"
         },
         {
             "name": "flowpack/twitter-api",
@@ -747,12 +747,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/25ji/Flowpack.TwitterApi.git",
-                "reference": "64f161e1fb3fba429812899dc0ac979da6966b23"
+                "reference": "594847b2155dbfce6d8f1c7b2ab7e50ca677a8d4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/25ji/Flowpack.TwitterApi/zipball/64f161e1fb3fba429812899dc0ac979da6966b23",
-                "reference": "64f161e1fb3fba429812899dc0ac979da6966b23",
+                "url": "https://api.github.com/repos/25ji/Flowpack.TwitterApi/zipball/594847b2155dbfce6d8f1c7b2ab7e50ca677a8d4",
+                "reference": "594847b2155dbfce6d8f1c7b2ab7e50ca677a8d4",
                 "shasum": ""
             },
             "require": {
@@ -769,7 +769,7 @@
                 "source": "https://github.com/25ji/Flowpack.TwitterApi/tree/master",
                 "issues": "https://github.com/25ji/Flowpack.TwitterApi/issues"
             },
-            "time": "2015-05-11 09:10:48"
+            "time": "2015-06-01 10:07:03"
         },
         {
             "name": "imagine/imagine",
