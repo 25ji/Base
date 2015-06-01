@@ -576,12 +576,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/migrations.git",
-                "reference": "a4f14d3a3d397104e557ec65d1a4e43bb86e4ddf"
+                "reference": "abb87d84ed21fd30c27bd3b52252a495a36d32fb"
             },
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/doctrine/migrations/zipball/abb87d84ed21fd30c27bd3b52252a495a36d32fb",
-                "reference": "a4f14d3a3d397104e557ec65d1a4e43bb86e4ddf",
+                "reference": "abb87d84ed21fd30c27bd3b52252a495a36d32fb",
                 "shasum": ""
             },
             "require": {
@@ -633,7 +633,7 @@
                 "database",
                 "migrations"
             ],
-            "time": "2015-05-02 06:20:23"
+            "time": "2015-05-26 15:30:26"
         },
         {
             "name": "doctrine/orm",
@@ -714,12 +714,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/25ji/Campaign25ji.git",
-                "reference": "dba68b3e7ef262890e6b90cb1b583957afd590bf"
+                "reference": "46bfa3ef482d7e7e49baec3917b77e1873851efd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/dba68b3e7ef262890e6b90cb1b583957afd590bf",
-                "reference": "dba68b3e7ef262890e6b90cb1b583957afd590bf",
+                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/46bfa3ef482d7e7e49baec3917b77e1873851efd",
+                "reference": "46bfa3ef482d7e7e49baec3917b77e1873851efd",
                 "shasum": ""
             },
             "require": {
@@ -739,7 +739,7 @@
                 "source": "https://github.com/25ji/Campaign25ji/tree/master",
                 "issues": "https://github.com/25ji/Campaign25ji/issues"
             },
-            "time": "2015-05-29 10:58:27"
+            "time": "2015-06-01 09:16:28"
         },
         {
             "name": "flowpack/twitter-api",
@@ -830,21 +830,20 @@
         },
         {
             "name": "symfony/console",
-            "version": "v2.6.8",
-            "target-dir": "Symfony/Component/Console",
+            "version": "v2.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Console.git",
-                "reference": "2343f6d8026306bd330e0c987e4c102483c213e7"
+                "reference": "7f0bec04961c61c961df0cb8c2ae88dbfd83f399"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Console/zipball/2343f6d8026306bd330e0c987e4c102483c213e7",
-                "reference": "2343f6d8026306bd330e0c987e4c102483c213e7",
+                "url": "https://api.github.com/repos/symfony/Console/zipball/7f0bec04961c61c961df0cb8c2ae88dbfd83f399",
+                "reference": "7f0bec04961c61c961df0cb8c2ae88dbfd83f399",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.3.3"
+                "php": ">=5.3.9"
             },
             "require-dev": {
                 "psr/log": "~1.0",
@@ -860,11 +859,11 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.6-dev"
+                    "dev-master": "2.7-dev"
                 }
             },
             "autoload": {
-                "psr-0": {
+                "psr-4": {
                     "Symfony\\Component\\Console\\": ""
                 }
             },
@@ -884,7 +883,7 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-            "time": "2015-05-22 14:53:08"
+            "time": "2015-05-29 16:22:24"
         },
         {
             "name": "symfony/dom-crawler",
@@ -941,21 +940,20 @@
         },
         {
             "name": "symfony/process",
-            "version": "v2.6.8",
-            "target-dir": "Symfony/Component/Process",
+            "version": "v2.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Process.git",
-                "reference": "7856d78ab6cce6e59d02d9e1a873441f6bd21306"
+                "reference": "e0a82b58e36afc60f8e79b8bc85a22bb064077c1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Process/zipball/7856d78ab6cce6e59d02d9e1a873441f6bd21306",
-                "reference": "7856d78ab6cce6e59d02d9e1a873441f6bd21306",
+                "url": "https://api.github.com/repos/symfony/Process/zipball/e0a82b58e36afc60f8e79b8bc85a22bb064077c1",
+                "reference": "e0a82b58e36afc60f8e79b8bc85a22bb064077c1",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.3.3"
+                "php": ">=5.3.9"
             },
             "require-dev": {
                 "symfony/phpunit-bridge": "~2.7"
@@ -963,11 +961,11 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.6-dev"
+                    "dev-master": "2.7-dev"
                 }
             },
             "autoload": {
-                "psr-0": {
+                "psr-4": {
                     "Symfony\\Component\\Process\\": ""
                 }
             },
@@ -987,7 +985,7 @@
             ],
             "description": "Symfony Process Component",
             "homepage": "https://symfony.com",
-            "time": "2015-05-15 13:32:45"
+            "time": "2015-05-15 13:33:16"
         },
         {
             "name": "symfony/yaml",
@@ -1066,11 +1064,11 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Flow.git",
-                "reference": "c7182986045ce058c095135899c5d68679164435"
+                "reference": "5a794a35921f14b8613493c34e42ff9624b81baa"
             },
             "require": {
                 "composer/installers": "~1.0.2",
-                "doctrine/migrations": "dev-master",
+                "doctrine/migrations": "1.0.*",
                 "doctrine/orm": "2.4.*",
                 "ext-json": ">=1.2.0",
                 "ext-mbstring": "*",
@@ -1101,7 +1099,7 @@
             ],
             "description": "TYPO3 Flow Application Framework",
             "homepage": "http://flow.typo3.org",
-            "time": "2015-05-29 06:17:31"
+            "time": "2015-06-01 08:41:08"
         },
         {
             "name": "typo3/fluid",
@@ -1455,16 +1453,16 @@
         },
         {
             "name": "phpunit/php-code-coverage",
-            "version": "2.0.17",
+            "version": "2.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/php-code-coverage.git",
-                "reference": "c4e8e7725e351184a76544634855b8a9c405a6e3"
+                "reference": "6b7d2094ca2a685a2cad846cb7cd7a30e8b9470f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/c4e8e7725e351184a76544634855b8a9c405a6e3",
-                "reference": "c4e8e7725e351184a76544634855b8a9c405a6e3",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/6b7d2094ca2a685a2cad846cb7cd7a30e8b9470f",
+                "reference": "6b7d2094ca2a685a2cad846cb7cd7a30e8b9470f",
                 "shasum": ""
             },
             "require": {
@@ -1487,7 +1485,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.0.x-dev"
+                    "dev-master": "2.1.x-dev"
                 }
             },
             "autoload": {
@@ -1513,7 +1511,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2015-05-25 05:11:59"
+            "time": "2015-06-01 07:35:26"
         },
         {
             "name": "phpunit/php-file-iterator",
