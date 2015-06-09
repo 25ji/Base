@@ -576,12 +576,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/migrations.git",
-                "reference": "abb87d84ed21fd30c27bd3b52252a495a36d32fb"
+                "reference": "67f02686c6c779ae50489728b91026bc8199720c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/migrations/zipball/abb87d84ed21fd30c27bd3b52252a495a36d32fb",
-                "reference": "abb87d84ed21fd30c27bd3b52252a495a36d32fb",
+                "url": "https://api.github.com/repos/doctrine/migrations/zipball/67f02686c6c779ae50489728b91026bc8199720c",
+                "reference": "67f02686c6c779ae50489728b91026bc8199720c",
                 "shasum": ""
             },
             "require": {
@@ -633,7 +633,7 @@
                 "database",
                 "migrations"
             ],
-            "time": "2015-05-26 15:30:26"
+            "time": "2015-06-01 21:18:20"
         },
         {
             "name": "doctrine/orm",
@@ -714,12 +714,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/25ji/Campaign25ji.git",
-                "reference": "3e6df327cde0606791c9df15467ecbe296e146fb"
+                "reference": "dde8b8e49d175d70b8a54f139f464caf8fee5712"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/3e6df327cde0606791c9df15467ecbe296e146fb",
-                "reference": "3e6df327cde0606791c9df15467ecbe296e146fb",
+                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/dde8b8e49d175d70b8a54f139f464caf8fee5712",
+                "reference": "dde8b8e49d175d70b8a54f139f464caf8fee5712",
                 "shasum": ""
             },
             "require": {
@@ -739,7 +739,7 @@
                 "source": "https://github.com/25ji/Campaign25ji/tree/master",
                 "issues": "https://github.com/25ji/Campaign25ji/issues"
             },
-            "time": "2015-06-01 12:56:00"
+            "time": "2015-06-09 08:33:39"
         },
         {
             "name": "flowpack/twitter-api",
@@ -1064,7 +1064,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Flow.git",
-                "reference": "f704e15b61f181105a260e2e220234430cb826f2"
+                "reference": "33d2add3188e705dafe80c93a1a5d8a3658db45c"
             },
             "require": {
                 "composer/installers": "~1.0.2",
@@ -1099,7 +1099,7 @@
             ],
             "description": "TYPO3 Flow Application Framework",
             "homepage": "http://flow.typo3.org",
-            "time": "2015-06-01 12:43:20"
+            "time": "2015-06-09 06:17:40"
         },
         {
             "name": "typo3/fluid",
@@ -1107,7 +1107,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Fluid.git",
-                "reference": "606b8553221e61bcd9f9e170991ad613403d9175"
+                "reference": "3b18bea54b4f794d93695799a7f8f5c7eda4c7c8"
             },
             "require": {
                 "typo3/flow": "*"
@@ -1123,7 +1123,7 @@
                 "LGPL-3.0+"
             ],
             "description": "Next-Generation Templating Framework for TYPO3 Flow and TYPO3 Neos, also backported to TYPO3 CMS",
-            "time": "2015-05-11 12:04:27"
+            "time": "2015-06-02 12:35:42"
         },
         {
             "name": "typo3/imagine",
@@ -1181,7 +1181,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Party.git",
-                "reference": "50a99d49c3fce2969a35c5aa9ddf3acee5fc5676"
+                "reference": "977be90581a262d42878ae0812e8eb193a4a3b9d"
             },
             "require": {
                 "typo3/flow": "*"
@@ -1197,7 +1197,7 @@
                 "LGPL-3.0+"
             ],
             "description": "A PHP implementation of the OASIS Customer Information Quality (CIQ) XML Standard.",
-            "time": "2015-03-10 11:48:50"
+            "time": "2015-06-02 10:17:29"
         },
         {
             "name": "typo3/surf",
@@ -1453,16 +1453,16 @@
         },
         {
             "name": "phpunit/php-code-coverage",
-            "version": "2.1.2",
+            "version": "2.1.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/php-code-coverage.git",
-                "reference": "6b7d2094ca2a685a2cad846cb7cd7a30e8b9470f"
+                "reference": "3703c4bb67c8700957dd41c843254658539d091d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/6b7d2094ca2a685a2cad846cb7cd7a30e8b9470f",
-                "reference": "6b7d2094ca2a685a2cad846cb7cd7a30e8b9470f",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/3703c4bb67c8700957dd41c843254658539d091d",
+                "reference": "3703c4bb67c8700957dd41c843254658539d091d",
                 "shasum": ""
             },
             "require": {
@@ -1511,7 +1511,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2015-06-01 07:35:26"
+            "time": "2015-06-06 08:33:23"
         },
         {
             "name": "phpunit/php-file-iterator",
