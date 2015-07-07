@@ -580,7 +580,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/migrations/zipball/43619782df4e9ae6be6b24557f0429471eeee848",
+                "url": "https://api.github.com/repos/doctrine/migrations/zipball/70c580174e4e16a79296a02256fb40a34192731c",
                 "reference": "43619782df4e9ae6be6b24557f0429471eeee848",
                 "shasum": ""
             },
@@ -714,12 +714,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/25ji/Campaign25ji.git",
-                "reference": "a127c5a2ec6d51c34e30498478af8070e65fbee0"
+                "reference": "17e148e4c0acb95d2f3a189f96ec891f35f6a7ac"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/a127c5a2ec6d51c34e30498478af8070e65fbee0",
-                "reference": "a127c5a2ec6d51c34e30498478af8070e65fbee0",
+                "url": "https://api.github.com/repos/25ji/Campaign25ji/zipball/17e148e4c0acb95d2f3a189f96ec891f35f6a7ac",
+                "reference": "17e148e4c0acb95d2f3a189f96ec891f35f6a7ac",
                 "shasum": ""
             },
             "require": {
@@ -739,7 +739,7 @@
                 "source": "https://github.com/25ji/Campaign25ji/tree/master",
                 "issues": "https://github.com/25ji/Campaign25ji/issues"
             },
-            "time": "2015-06-23 08:25:39"
+            "time": "2015-07-07 07:15:57"
         },
         {
             "name": "flowpack/twitter-api",
@@ -751,7 +751,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/25ji/Flowpack.TwitterApi/zipball/594847b2155dbfce6d8f1c7b2ab7e50ca677a8d4",
+                "url": "https://api.github.com/repos/25ji/Flowpack.TwitterApi/zipball/626d5fbeb662e19c8bb90dc5031c1f8e223b9d51",
                 "reference": "594847b2155dbfce6d8f1c7b2ab7e50ca677a8d4",
                 "shasum": ""
             },
